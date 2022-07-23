@@ -1,6 +1,6 @@
 # 主页
 
-中文|[English](#www.google.com)
+中文|[English](./post/en/index_en.md)
 
 ## 目录
 * [简介](#简介)
