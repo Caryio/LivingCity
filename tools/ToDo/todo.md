@@ -38,7 +38,7 @@
           cursor: pointer;
           position: relative;
           padding: 12px 8px 12px 40px;
-          background: #7F007F;
+          background: #66CC00;
           font-size: 18px;
           transition: 0.2s;
           
@@ -51,7 +51,7 @@
         
         /* Set all odd list items to a different color (zebra-stripes) */
         ul li:nth-child(odd) {
-          background: #FF00FF;
+          background: #99FF33;
         }
         
         /* Darker background-color on hover */
@@ -95,7 +95,7 @@
         
         /* Style the header */
         .header {
-          background-color: #f44336;
+          background-color:rgb(255,0,0,0);
           padding: 30px 40px;
           color: white;
           text-align: center;
