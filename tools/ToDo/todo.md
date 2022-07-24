@@ -38,7 +38,7 @@
           cursor: pointer;
           position: relative;
           padding: 12px 8px 12px 40px;
-          background: #eee;
+          background: #7F007F;
           font-size: 18px;
           transition: 0.2s;
           
@@ -51,7 +51,7 @@
         
         /* Set all odd list items to a different color (zebra-stripes) */
         ul li:nth-child(odd) {
-          background: #f9f9f9;
+          background: #FF00FF;
         }
         
         /* Darker background-color on hover */
@@ -121,8 +121,8 @@
         .addBtn {
           padding: 10px;
           width: 25%;
-          background: #d9d9d9;
-          color: #555;
+          background: #00CC00;
+          color: #FFFF33;
           float: left;
           text-align: center;
           font-size: 16px;
@@ -131,7 +131,7 @@
         }
         
         .addBtn:hover {
-          background-color: #bbb;
+          background-color: #006600;
         }
     </style>
 
